@@ -5,7 +5,7 @@
 - Nourhan Abdelhamid (ID: 22100665)
 - Noura adel (ID: 22100933)
 - Remonda rezq (ID: 22101332)
-- Raghad Mohamed (ID: 
+- Raghad Mohamed (ID: 22101912)
 
 ## Project Description
 This project focuses on building a robust preprocessing pipeline to handle and normalize unstructured data from multiple formats (PDF, DOCX, and Excel) for use in Large Language Model (LLM) applications and RAG systems. 
