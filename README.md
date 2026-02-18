@@ -11,10 +11,10 @@
 This project focuses on building a robust preprocessing pipeline to handle and normalize unstructured data from multiple formats (PDF, DOCX, and Excel) for use in Large Language Model (LLM) applications and RAG systems. 
 
 The pipeline processes data covering the following areas:
-* [cite_start]**Computer Science Fundamentals**: Concepts including computation, information, and automation.
-* [cite_start]**Algorithms & Data Structures**: Procedures for problem-solving and organizing data using arrays, linked lists, trees, and graphs.
-* [cite_start]**Modern Technologies**: Insights into Programming Languages (Python, Java, Go) , Operating Systems (Windows, Linux, macOS) , and Artificial Intelligence.
-* [cite_start]**Student Records**: Structured information for 15 students, including academic data for students like Liam Anderson (GPA: 3.85) and Emma Davis (GPA: 4.0).
+* **Computer Science Fundamentals**: Concepts including computation, information, and automation.
+* **Algorithms & Data Structures**: Procedures for problem-solving and organizing data using arrays, linked lists, trees, and graphs.
+* **Modern Technologies**: Insights into Programming Languages (Python, Java, Go) , Operating Systems (Windows, Linux, macOS) , and Artificial Intelligence.
+* **Student Records**: Structured information for 15 students, including academic data for students like Liam Anderson (GPA: 3.85) and Emma Davis (GPA: 4.0).
 
 
 
